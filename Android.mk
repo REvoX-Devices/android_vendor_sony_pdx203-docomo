@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),pdx203)
+ifeq ($(TARGET_DEVICE),pdx203_docomo)
 
 endif
